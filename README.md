@@ -1,2 +1,5 @@
-# Regression-
-Linear Regression, Polynomial Regression, Multiple Regression and Natural Cubic Spline
+# Regression Analysis
+Linear Regression, 
+Polynomial Regression, 
+Multiple Regression 
+Natural Cubic Spline
