@@ -1,5 +1,5 @@
 
-### Part 1 : Regression ###
+### Regression ###
 
 # Linear Regression
 
